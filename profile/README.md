@@ -19,16 +19,15 @@ GitHub 组织：**donet-org-cn** · 官网：**[dotnet.org.cn](https://dotnet.or
 | --- | --- | --- |
 | 语音 AI | [FunASR.NET](https://github.com/donet-org-cn/FunAsrNet) | 纯 C# 普通话识别、中文 TTS 与电话音频 |
 | 计算机视觉 | [SimdYolo](https://github.com/donet-org-cn/SimdYolo) | YOLO 推理、检测、分割与姿态估计 |
+| OCR | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | 纯 C# PP-OCR 推理实现 |
 | 嵌入式存储 | [PureDb](https://github.com/donet-org-cn/PureDb) | 纯 .NET 文件数据库、SQL、JSON 与 ADO.NET |
 | 图形引擎 | [SimdSkia](https://github.com/donet-org-cn/SimdSkia) | C# 2D 渲染与 Avalonia 集成 |
 | 流媒体 | [Serein](https://github.com/donet-org-cn/Serein) | RTSP/RTP 接入、转封装、分发与录制 |
 | 文件与同步 | [Yunsevo · 沄序](https://github.com/donet-org-cn/yunsevo) | 云文件管理与跨平台同步客户端 |
 | 设备互联 | [P2P VPN](https://github.com/hnlyf168/p2pvpn) | 虚拟组网、连接协调与独立中继 |
 | 多协议通信 | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | 工业、物联与车载协议方向 |
-| OCR / 上游 Fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | Fork 自 [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR)，保留上游归属 |
 | OCR / 推理 | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | PaddleInference 与 PaddleOCR 的 .NET 接入 |
 | AI 应用 | [Chats](https://github.com/sdcb/chats) | 可自行部署的 AI 聊天应用与网关 |
-| OCR / 上游 | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | 纯 C# PP-OCR 推理实现 |
 | 推理工具链 | [OpenVINO.NET](https://github.com/sdcb/OpenVINO.NET) | OpenVINO 原生运行时的 .NET 封装 |
 | 音视频 | [Sdcb.FFmpeg](https://github.com/sdcb/Sdcb.FFmpeg) | 面向 .NET 的 FFmpeg 封装，需原生库 |
 | 高精度计算 | [Arithmetic](https://github.com/sdcb/Arithmetic) | 纯托管任意精度整数、有理数与实数 |

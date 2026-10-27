@@ -19,16 +19,15 @@ Our collection includes public projects maintained by community members. Reposit
 | --- | --- | --- |
 | Speech AI | [FunASR.NET](https://github.com/donet-org-cn/FunAsrNet) | Mandarin ASR, Chinese TTS, and telephone audio in C# |
 | Computer vision | [SimdYolo](https://github.com/donet-org-cn/SimdYolo) | YOLO inference, detection, segmentation, and pose |
+| OCR | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | A C# implementation of PP-OCR inference |
 | Embedded storage | [PureDb](https://github.com/donet-org-cn/PureDb) | Managed file storage, SQL, JSON, and ADO.NET |
 | Graphics | [SimdSkia](https://github.com/donet-org-cn/SimdSkia) | C# 2D rendering and Avalonia integration |
 | Streaming | [Serein](https://github.com/donet-org-cn/Serein) | RTSP/RTP ingestion, remuxing, distribution, and recording |
 | Files and sync | [Yunsevo Drive](https://github.com/donet-org-cn/yunsevo) | Cloud file management and cross-platform synchronization |
 | Connectivity | [P2P VPN](https://github.com/hnlyf168/p2pvpn) | Virtual networking, coordination, and separate relays |
 | Communication | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | Industrial, IoT, and vehicle protocol directions |
-| OCR / upstream fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | A fork of [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR), with upstream attribution |
 | OCR / inference | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | .NET integration for PaddleInference and PaddleOCR |
 | AI application | [Chats](https://github.com/sdcb/chats) | A self-hosted AI chat application and gateway |
-| OCR / upstream | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | A C# implementation of PP-OCR inference |
 | Inference tooling | [OpenVINO.NET](https://github.com/sdcb/OpenVINO.NET) | .NET bindings for the native OpenVINO runtime |
 | Audio / video | [Sdcb.FFmpeg](https://github.com/sdcb/Sdcb.FFmpeg) | .NET wrappers for FFmpeg; native libraries required |
 | Precision arithmetic | [Arithmetic](https://github.com/sdcb/Arithmetic) | Managed arbitrary-precision integers, rationals, and reals |
