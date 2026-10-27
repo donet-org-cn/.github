@@ -15,12 +15,12 @@ Our collection includes public projects maintained by community members. Reposit
 
 | Area | Project | Focus |
 | --- | --- | --- |
-| Speech AI | [FunASR.NET](https://github.com/hnlyf168/FunAsrNet) | Mandarin ASR, Chinese TTS, and telephone audio in C# |
-| Computer vision | [SimdYolo](https://github.com/hnlyf168/SimdYolo) | YOLO inference, detection, segmentation, and pose |
-| Embedded storage | [PureDb](https://github.com/hnlyf168/PureDb) | Managed file storage, SQL, JSON, and ADO.NET |
+| Speech AI | [FunASR.NET](https://github.com/donet-org-cn/FunAsrNet) | Mandarin ASR, Chinese TTS, and telephone audio in C# |
+| Computer vision | [SimdYolo](https://github.com/donet-org-cn/SimdYolo) | YOLO inference, detection, segmentation, and pose |
+| Embedded storage | [PureDb](https://github.com/donet-org-cn/PureDb) | Managed file storage, SQL, JSON, and ADO.NET |
 | Graphics | [SimdSkia](https://github.com/hnlyf168/SimdSkia) | C# 2D rendering and Avalonia integration |
-| Streaming | [Serein](https://github.com/hnlyf168/Serein) | RTSP/RTP ingestion, remuxing, distribution, and recording |
-| Files and sync | [Yunsevo Drive](https://github.com/hnlyf168/yunsevo) | Cloud file management and cross-platform synchronization |
+| Streaming | [Serein](https://github.com/donet-org-cn/Serein) | RTSP/RTP ingestion, remuxing, distribution, and recording |
+| Files and sync | [Yunsevo Drive](https://github.com/donet-org-cn/yunsevo) | Cloud file management and cross-platform synchronization |
 | Connectivity | [P2P VPN](https://github.com/hnlyf168/p2pvpn) | Virtual networking, coordination, and separate relays |
 | Communication | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | Industrial, IoT, and vehicle protocol directions |
 | OCR / upstream fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | A fork of [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR), with upstream attribution |
