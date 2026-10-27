@@ -25,6 +25,20 @@ Our collection includes public projects maintained by community members. Reposit
 | Communication | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | Industrial, IoT, and vehicle protocol directions |
 | OCR / upstream fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | A fork of [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR), with upstream attribution |
 
+| OCR / inference | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | .NET integration for PaddleInference and PaddleOCR |
+| AI application | [Chats](https://github.com/sdcb/chats) | A self-hosted AI chat application and gateway |
+| OCR / upstream | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | A C# implementation of PP-OCR inference |
+| Inference tooling | [OpenVINO.NET](https://github.com/sdcb/OpenVINO.NET) | .NET bindings for the native OpenVINO runtime |
+| Audio / video | [Sdcb.FFmpeg](https://github.com/sdcb/Sdcb.FFmpeg) | .NET wrappers for FFmpeg; native libraries required |
+| Precision arithmetic | [Arithmetic](https://github.com/sdcb/Arithmetic) | Managed arbitrary-precision integers, rationals, and reals |
+
+## Members and maintainers
+
+- [hnlyf168](https://github.com/hnlyf168) builds C# AI, foundational engines, and cross-platform apps, including FunASR.NET, SimdYolo, and PureDb.
+- [sdcb / ZHOU Jie](https://github.com/sdcb) maintains .NET AI and developer tools, including PaddleSharp, Chats, and OpenVINO.NET.
+
+Our [member directory](https://dotnet.org.cn/en/members/) combines public GitHub memberships with explicitly curated community profiles. Membership visibility remains each member's choice. The sdcb projects above remain under his personal account.
+
 Maturity varies by project. Read the README, releases, model licenses, and known limitations before evaluating a project for your application.
 
 ## Participate
