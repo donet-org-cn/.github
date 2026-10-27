@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 社区交流 / Community discussions
+    url: https://github.com/donet-org-cn/community/discussions
+    about: 使用问题、想法和实践分享 / Questions, ideas, and experience sharing
+  - name: 项目导航 / Project directory
+    url: https://dotnet.org.cn/#projects
+    about: 查找具体项目及其源码仓库 / Find a project's source repository

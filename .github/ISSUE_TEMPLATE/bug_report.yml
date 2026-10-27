@@ -1,0 +1,29 @@
+name: 问题反馈 / Bug report
+description: 提供可复现的问题和运行环境 / Report a reproducible problem
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 项目与版本 / Project and version
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 运行环境 / Environment
+      description: 操作系统、架构、.NET SDK / 运行时，必要时补充模型与设备 / OS, architecture, .NET version, and relevant models or devices
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤 / Steps to reproduce
+      description: 提供最小示例，避免包含凭据或个人数据 / Include a minimal example without credentials or personal data
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期与实际行为 / Expected and actual behavior
+    validations:
+      required: true
