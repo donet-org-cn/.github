@@ -24,7 +24,6 @@ Our collection includes public projects maintained by community members. Reposit
 | Connectivity | [P2P VPN](https://github.com/hnlyf168/p2pvpn) | Virtual networking, coordination, and separate relays |
 | Communication | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | Industrial, IoT, and vehicle protocol directions |
 | OCR / upstream fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | A fork of [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR), with upstream attribution |
-
 | OCR / inference | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | .NET integration for PaddleInference and PaddleOCR |
 | AI application | [Chats](https://github.com/sdcb/chats) | A self-hosted AI chat application and gateway |
 | OCR / upstream | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | A C# implementation of PP-OCR inference |
