@@ -15,12 +15,12 @@ GitHub 组织：**donet-org-cn** · 官网：**[dotnet.org.cn](https://dotnet.or
 
 | 方向 | 项目 | 关注点 |
 | --- | --- | --- |
-| 语音 AI | [FunASR.NET](https://github.com/hnlyf168/FunAsrNet) | 纯 C# 普通话识别、中文 TTS 与电话音频 |
-| 计算机视觉 | [SimdYolo](https://github.com/hnlyf168/SimdYolo) | YOLO 推理、检测、分割与姿态估计 |
-| 嵌入式存储 | [PureDb](https://github.com/hnlyf168/PureDb) | 纯 .NET 文件数据库、SQL、JSON 与 ADO.NET |
+| 语音 AI | [FunASR.NET](https://github.com/donet-org-cn/FunAsrNet) | 纯 C# 普通话识别、中文 TTS 与电话音频 |
+| 计算机视觉 | [SimdYolo](https://github.com/donet-org-cn/SimdYolo) | YOLO 推理、检测、分割与姿态估计 |
+| 嵌入式存储 | [PureDb](https://github.com/donet-org-cn/PureDb) | 纯 .NET 文件数据库、SQL、JSON 与 ADO.NET |
 | 图形引擎 | [SimdSkia](https://github.com/hnlyf168/SimdSkia) | C# 2D 渲染与 Avalonia 集成 |
-| 流媒体 | [Serein](https://github.com/hnlyf168/Serein) | RTSP/RTP 接入、转封装、分发与录制 |
-| 文件与同步 | [Yunsevo · 沄序](https://github.com/hnlyf168/yunsevo) | 云文件管理与跨平台同步客户端 |
+| 流媒体 | [Serein](https://github.com/donet-org-cn/Serein) | RTSP/RTP 接入、转封装、分发与录制 |
+| 文件与同步 | [Yunsevo · 沄序](https://github.com/donet-org-cn/yunsevo) | 云文件管理与跨平台同步客户端 |
 | 设备互联 | [P2P VPN](https://github.com/hnlyf168/p2pvpn) | 虚拟组网、连接协调与独立中继 |
 | 多协议通信 | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | 工业、物联与车载协议方向 |
 | OCR / 上游 Fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | Fork 自 [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR)，保留上游归属 |
