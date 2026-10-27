@@ -24,7 +24,6 @@ GitHub 组织：**donet-org-cn** · 官网：**[dotnet.org.cn](https://dotnet.or
 | 设备互联 | [P2P VPN](https://github.com/hnlyf168/p2pvpn) | 虚拟组网、连接协调与独立中继 |
 | 多协议通信 | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | 工业、物联与车载协议方向 |
 | OCR / 上游 Fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | Fork 自 [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR)，保留上游归属 |
-
 | OCR / 推理 | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | PaddleInference 与 PaddleOCR 的 .NET 接入 |
 | AI 应用 | [Chats](https://github.com/sdcb/chats) | 可自行部署的 AI 聊天应用与网关 |
 | OCR / 上游 | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | 纯 C# PP-OCR 推理实现 |
