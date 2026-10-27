@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/donet-org-cn/.github/main/assets/banner.svg" alt=".NET 中国 · Open code. Shared future." width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/donet-org-cn/.github/main/assets/banner.svg" alt=".NET 中文开源社区 · Open code. Shared future." width="100%"></p>
 
 <p align="center"><b>中文</b> · <a href="README.en.md">English</a></p>
 <p align="center"><a href="https://dotnet.org.cn">社区官网</a> · <a href="https://dotnet.org.cn/en/">English website</a> · <a href="https://github.com/donet-org-cn/community/discussions">社区讨论</a> · <a href="https://github.com/donet-org-cn/.github/blob/main/CONTRIBUTING.md">参与贡献</a></p>
 
 ## 用开放的代码，创造无限可能
 
-**.NET 中国**是由开发者发起的独立开源社区，聚焦 C#、.NET、人工智能、基础引擎与跨平台应用。我们希望把真实项目、可复现的实践和愿意分享的开发者连接起来。
+**.NET 中文开源社区**是由开发者发起的独立开源社区，聚焦 C#、.NET、人工智能、基础引擎与跨平台应用。我们希望把真实项目、可复现的实践和愿意分享的开发者连接起来。
 
 GitHub 组织：**donet-org-cn** · 官网：**[dotnet.org.cn](https://dotnet.org.cn)**。我们是独立开发者社区，非微软官方网站或官方机构。
 

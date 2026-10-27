@@ -1,4 +1,4 @@
-# 参与 .NET 中国 / Contributing to .NET China
+# 参与 .NET 中文开源社区 / Contributing to .NET Chinese Open Source Community
 
 感谢你愿意分享想法、文档、代码和测试。你可以直接参与公开讨论、提交 Issue 或 Pull Request，无需先加入组织。
 

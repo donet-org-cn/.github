@@ -1,4 +1,4 @@
-# .NET 中国 · 组织资料与贡献指南
+# .NET 中文开源社区 · 组织资料与贡献指南
 
 此仓库存放 [donet-org-cn](https://github.com/donet-org-cn) 的公开组织首页和默认社区文件。
 
