@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/donet-org-cn/.github/main/assets/banner.svg" alt=".NET Chinese Open Source Community · Open code. Shared future." width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/donet-org-cn/.github/main/assets/banner.svg?brand=chinese-open-source" alt=".NET Chinese Open Source Community · Open code. Shared future." width="100%"></p>
 
 <p align="center"><a href="README.md">中文</a> · <b>English</b></p>
 <p align="center"><a href="https://dotnet.org.cn/en/">Website</a> · <a href="https://github.com/donet-org-cn/community/discussions">Discussions</a> · <a href="https://github.com/donet-org-cn/.github/blob/main/CONTRIBUTING.md">Contributing</a></p>
