@@ -1,9 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/donet-org-cn/.github/main/assets/banner.svg?brand=chinese-open-source" alt=".NET Chinese Open Source Community · Open code. Shared future." width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/donet-org-cn/.github/main/assets/banner.svg?brand=nexus-v2" alt=".NET Chinese Open Source Community · Open code. Shared future." width="100%"></p>
 
 <p align="center"><a href="README.md">中文</a> · <b>English</b></p>
 <p align="center"><a href="https://dotnet.org.cn/en/">Website</a> · <a href="https://github.com/donet-org-cn/community/discussions">Discussions</a> · <a href="https://github.com/donet-org-cn/.github/blob/main/CONTRIBUTING.md">Contributing</a></p>
 
 ## Open code. Shared future.
+
+[Community logo, GitHub avatar, and NuGet icons](https://dotnet.org.cn/en/brand/)
 
 **.NET Chinese Open Source Community** is an independent developer-led open-source community focused on C#, .NET, AI, foundational engines, and cross-platform applications. We connect real projects, reproducible experiments, and developers who enjoy sharing what they learn.
 
