@@ -25,6 +25,20 @@ GitHub 组织：**donet-org-cn** · 官网：**[dotnet.org.cn](https://dotnet.or
 | 多协议通信 | [ProtoBus](https://github.com/hnlyf168/ProtoBus) | 工业、物联与车载协议方向 |
 | OCR / 上游 Fork | [SimdPaddleOCR](https://github.com/hnlyf168/SimdPaddleOCR) | Fork 自 [sdcb/SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR)，保留上游归属 |
 
+| OCR / 推理 | [PaddleSharp](https://github.com/sdcb/PaddleSharp) | PaddleInference 与 PaddleOCR 的 .NET 接入 |
+| AI 应用 | [Chats](https://github.com/sdcb/chats) | 可自行部署的 AI 聊天应用与网关 |
+| OCR / 上游 | [SimdPaddleOCR](https://github.com/sdcb/SimdPaddleOCR) | 纯 C# PP-OCR 推理实现 |
+| 推理工具链 | [OpenVINO.NET](https://github.com/sdcb/OpenVINO.NET) | OpenVINO 原生运行时的 .NET 封装 |
+| 音视频 | [Sdcb.FFmpeg](https://github.com/sdcb/Sdcb.FFmpeg) | 面向 .NET 的 FFmpeg 封装，需原生库 |
+| 高精度计算 | [Arithmetic](https://github.com/sdcb/Arithmetic) | 纯托管任意精度整数、有理数与实数 |
+
+## 成员与维护者
+
+- [hnlyf168](https://github.com/hnlyf168)：关注 C# AI、基础引擎与跨平台应用，维护 FunASR.NET、SimdYolo、PureDb 等项目。
+- [sdcb · ZHOU Jie](https://github.com/sdcb)：关注 .NET、AI 与开发工具，维护 PaddleSharp、Chats、OpenVINO.NET 等项目。
+
+官网的[成员目录](https://dotnet.org.cn/members/)提供简介与项目入口，并合并 GitHub 公开成员和社区明确收录的名单。成员自行决定组织身份是否公开；sdcb 的上述仓库仍由其个人账户维护。
+
 各项目成熟度不同，请先阅读 README、版本说明、模型许可证及已知限制，再评估实际应用。
 
 ## 一起参与
